@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Ebay" />
-        <module name="KhalidFarhanAuto" />
+        <module name="Generic" />
         <module name="Zillow" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Ebay" target="1.5" />
-      <module name="KhalidFarhanAuto" target="1.5" />
+      <module name="Generic" target="1.8" />
+      <module name="KhalidFarhanAuto" target="1.8" />
       <module name="Zillow" target="1.5" />
     </bytecodeTargetLevel>
   </component>

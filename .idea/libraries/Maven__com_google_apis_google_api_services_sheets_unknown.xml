@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.google.apis:google-api-services-sheets:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-sheets/unknown/google-api-services-sheets-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-sheets/unknown/google-api-services-sheets-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/apis/google-api-services-sheets/unknown/google-api-services-sheets-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
